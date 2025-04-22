@@ -25,7 +25,7 @@
         android:layout_height="match_parent"
         android:layout_marginTop="80sp"
         android:background="#00BCD4"
-        android:text="\t\t\t\t\t\n\n\n\t\t\t\t\tStudent Name : Bodala Gowtami\n \t\t\t\t\tRegistration Number: 230101120025 \n \t\t\t\t\tMobile Number: 9663972121\n\t\t\t\t\t\tBachelor of Technology (CSE)"
+        android:text="\t\t\t\t\t\n\n\n\t\t\t\t\tStudent Name : Bodala Gowtami\n \t\t\t\t\tRegistration Number: 23010112xxxx \n \t\t\t\t\tMobile Number: 999999999\n\t\t\t\t\t\tBachelor of Technology (CSE)"
         android:textStyle="bold"
         android:textSize="25sp"
 
