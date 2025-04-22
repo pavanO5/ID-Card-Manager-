@@ -38,7 +38,7 @@
         android:layout_height="match_parent"
         android:layout_marginTop="90dp"
         android:background="#00BCD4"
-        android:text="\n\n      Name : Pavan Patro \n      Registration Nmuber : 230101120013 \n      Mobile Number : 6370515550 \n      Branch : CSE     \n      Blood Group : A+ve "
+        android:text="\n\n      Name : Pavan Patro \n      Registration Nmuber : 23010112xxxx \n      Mobile Number : 999999999 \n      Branch : CSE     \n      Blood Group : A+ve "
         android:textSize="25dp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="132dp"
