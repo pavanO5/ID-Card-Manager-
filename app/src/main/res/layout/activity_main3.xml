@@ -22,7 +22,7 @@
         android:layout_height="match_parent"
         android:layout_marginTop="90sp"
         android:background="#00BCD4"
-        android:text="\n\n\t\t\t\t\Student Name:Sneha Jena\n \t\t\t\t\Registration Number :230101120017 \n      Program/Branch:B_Tech(CSE)\n      Mobile Number:9556146717"
+        android:text="\n\n\t\t\t\t\Student Name:Sneha Jena\n \t\t\t\t\Registration Number :23010112xxxx \n      Program/Branch:B_Tech(CSE)\n      Mobile Number:999999999"
         android:textStyle="bold"
         android:textSize="20sp"
         tools:layout_editor_absoluteX="122dp"
