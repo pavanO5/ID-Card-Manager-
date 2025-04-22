@@ -75,5 +75,6 @@ Create ID Card → Fill details & preview your ID
 
 This Project uses simple UI for better understanding of the functionalities used in this project.
 
-
+## A PROJECT BY : 
+Pavan Patro and team..
 
